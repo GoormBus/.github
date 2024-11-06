@@ -21,7 +21,7 @@
 
  
 ## ✨ PDF
-##### 🏆 [사이트](https://drive.google.com/drive/my-drive?hl=ko)
+##### 🏆 [사이트](https://drive.google.com/file/d/1Orha-Acf9v_-QSNIj74_-2CDK5P66Hvs/view?usp=sharing)
 
 
 ## ✨ 버스왔수다의 배포 사이트
