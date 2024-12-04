@@ -92,7 +92,6 @@ https://youtu.be/hhftesjkh94?si=sEchlAs4iuC-TM2X
 - Java `21`
 - Spring Framework `3.2.4`
 - Swagger `2.6.0`
-- Batch `5,x`
 - Jpa
 
 
