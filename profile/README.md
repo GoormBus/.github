@@ -133,8 +133,9 @@ https://youtu.be/hhftesjkh94?si=sEchlAs4iuC-TM2X
 ![image](https://github.com/user-attachments/assets/b995f3db-04ba-4c56-a952-d6e5e02734ea)
 
 
-### [✨ ER Diagram]()
-![image](https://github.com/user-attachments/assets/df1f10d7-2971-4305-b85e-78fbb630e1a2)
+### [✨ ER Diagram](https://www.erdcloud.com/d/FDCyr6fMNDZAgXz7R)
+![image](https://github.com/user-attachments/assets/356b3e51-488f-4564-9723-532226bb29e3)
+
 
 
 
