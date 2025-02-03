@@ -1,9 +1,9 @@
-# 🚍 버스왔수다
+# 🚍 제주 버스 알림콜 
 ![image](https://github.com/user-attachments/assets/f296fff9-0fee-4754-8543-bf34401b352d)
 
 ![image](https://github.com/user-attachments/assets/d88aeaaf-0405-4d17-a40f-c48ab5e20ee3)
 
-##### 🏆 구름톤 11기 대상 작품
+# 🏆 구름톤 11기 대상 작품
 
 ### 📜 Contents
  1. [Overview](#-overview)
