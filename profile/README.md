@@ -133,11 +133,6 @@ https://youtu.be/hhftesjkh94?si=sEchlAs4iuC-TM2X
 ![image](https://github.com/user-attachments/assets/b995f3db-04ba-4c56-a952-d6e5e02734ea)
 
 
-### [✨ ER Diagram](https://www.erdcloud.com/d/FDCyr6fMNDZAgXz7R)
-![image](https://github.com/user-attachments/assets/356b3e51-488f-4564-9723-532226bb29e3)
-
-
-
 
 # 💞 팀원 소개
 ##### ❤️‍🔥 버스왔수다를 개발한 `구름톤 11기` 팀원들을 소개합니다!
